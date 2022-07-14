@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>RTGs (Continued)</name>
   <packageId>Mlie.RTGs</packageId>
@@ -12,22 +12,26 @@
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of ItchyFleas mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1221977291
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
     [tr]
         [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
         [td][url=https://github.com/emipa606/RTGs][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
     [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/Be8E2qJ.png[/img][/td]
+    [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
-This mod adds a new power generator to the game. An RTG (Radioisotope thermoelectric generator). It uses Uranium as part of it&apos;s building requirement and produces a steady amount of power at all times. It produces 750w of power.
-Since it is an RTG, it also produces heat. You&apos;ll need to keep the room it is in cool otherwise it will cause fires.
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
+This mod adds a new power generator to the game. An RTG (Radioisotope thermoelectric generator). It uses Uranium as part of it's building requirement and produces a steady amount of power at all times. It produces 750w of power.
+Since it is an RTG, it also produces heat. You'll need to keep the room it is in cool otherwise it will cause fires.
 This mod also adds an ASRG (Advanced Stirling radioisotope generator). It requires a heck of a lot of research. It produces 1500w of power.
 
 Special Thanks:
@@ -41,11 +45,11 @@ KapTaiN_KaVerN 		- A15 to B18 Update
 [url=https://ludeon.com/forums/index.php?topic=10623.msg382862#msg382862]Download link[/url]
 ===========
 
-Original author&apos;s [url=https://www.paypal.com/cgi-bin/webscr?cmd=_donationsandbusiness=itchy.flea%40gmail%2ecomandlc=NZanditem_name=Mod%20Dev%20Supportanditem_number=Rim%20Modsandcurrency_code=USDandbn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted]donation link[/url]
+Original author's [url=https://www.paypal.com/cgi-bin/webscr?cmd=_donationsandbusiness=itchy.flea%40gmail%2ecomandlc=NZanditem_name=Mod%20Dev%20Supportanditem_number=Rim%20Modsandcurrency_code=USDandbn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted]donation link[/url]
 ===========
 [i]If you want to donate, please give it to him, I just updated the mod[/i]
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
