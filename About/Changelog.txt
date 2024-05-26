@@ -1,5 +1,8 @@
 # Changelog for RTGs
 
+1.5.2 - Fixed warning about shot over warning
+
+
 1.5.1 - Mod updated for 1.5 and passed autotests
 
 
