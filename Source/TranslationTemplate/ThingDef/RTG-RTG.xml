@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Advanced Stirling Radioisotope Generator -->
+  <ASRG.label>Advanced Stirling Radioisotope Generator</ASRG.label>
+  <!-- EN: Produces electricity using the Stirling cycle. Will slowly heat up rooms it is placed in. -->
+  <ASRG.description>Produces electricity using the Stirling cycle. Will slowly heat up rooms it is placed in.</ASRG.description>
+  <!-- EN: Radioisotope Thermoelectric Generator -->
+  <RTG.label>Radioisotope Thermoelectric Generator</RTG.label>
+  <!-- EN: Produces electricity from Uranium. Will slowly heat up rooms it is placed in. -->
+  <RTG.description>Produces electricity from Uranium. Will slowly heat up rooms it is placed in.</RTG.description>
+</LanguageData>
